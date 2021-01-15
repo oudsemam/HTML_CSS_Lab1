@@ -29,4 +29,7 @@ p {
 button {
     background-color: #000000;
     color: #ffffff;
+    width: 100%;
+    border-radius: 4cm;
+    padding: 4px;
 }
