@@ -1,6 +1,8 @@
 body {
     font-family: "Open Sans", sans-serif;
     background-color: #f9fafc;
+    padding: 10px;
+    margin: 5px;
 }
 
 header {
@@ -32,4 +34,5 @@ button {
     width: 100%;
     border-radius: 4cm;
     padding: 4px;
+    margin: 5px;
 }
