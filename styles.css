@@ -1,0 +1,18 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: #f9fafc;
+}
+
+nav {
+    color: #69696a;
+}
+
+p {
+    color: #69696a;
+    border-left: 2px solid #69696a;
+}
+
+button {
+    background-color: #000000;
+    color: #ffffff;
+}
