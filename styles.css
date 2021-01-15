@@ -13,6 +13,8 @@ nav {
 
 a {
     text-decoration: none;
+    color: #69696a;
+    display: block;
 }
 
 h1 {
