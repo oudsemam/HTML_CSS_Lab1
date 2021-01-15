@@ -11,6 +11,10 @@ nav {
     color: #69696a;
 }
 
+a {
+    text-decoration: none;
+}
+
 h1 {
     color: #000000;
 }
