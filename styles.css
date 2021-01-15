@@ -8,6 +8,7 @@ body {
 header {
   color: #000000;
   padding-bottom: 4px;
+  font-size: 0.75em;
 }
 
 nav {
@@ -19,10 +20,12 @@ a {
   color: #69696a;
   display: block;
   padding-bottom: 4px;
+  font-size: 0.75em;
 }
 
 h1 {
   color: #000000;
+  font-size: 1.5em;
 }
 
 p {
