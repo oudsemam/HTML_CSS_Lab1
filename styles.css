@@ -1,38 +1,42 @@
 body {
-    font-family: "Open Sans", sans-serif;
-    background-color: #f9fafc;
-    padding: 10px;
-    margin: 5px;
+  font-family: "Open Sans", sans-serif;
+  background-color: #f9fafc;
+  padding: 10px;
+  margin: 5px;
 }
 
 header {
-    color: #000000;
+  color: #000000;
+  padding-bottom: 4px;
 }
 
 nav {
-    color: #69696a;
+  color: #69696a;
 }
 
 a {
-    text-decoration: none;
-    color: #69696a;
-    display: block;
+  text-decoration: none;
+  color: #69696a;
+  display: block;
+  padding-bottom: 4px;
 }
 
 h1 {
-    color: #000000;
+  color: #000000;
 }
 
 p {
-    color: #69696a;
-    border-left: 2px solid #69696a;
+  color: #69696a;
+  border-left: 2px solid #69696a;
+  padding-left: 10px;
+  font-size: 0.75em;
 }
 
 button {
-    background-color: #000000;
-    color: #ffffff;
-    width: 100%;
-    border-radius: 4cm;
-    padding: 4px;
-    margin: 5px;
+  background-color: #000000;
+  color: #ffffff;
+  width: 100%;
+  border-radius: 4cm;
+  padding: 4px;
+  margin: 5px;
 }
