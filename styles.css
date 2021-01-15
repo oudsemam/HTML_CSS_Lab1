@@ -3,8 +3,16 @@ body {
     background-color: #f9fafc;
 }
 
+header {
+    color: #000000;
+}
+
 nav {
     color: #69696a;
+}
+
+h1 {
+    color: #000000;
 }
 
 p {
