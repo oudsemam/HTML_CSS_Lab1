@@ -1,18 +1,29 @@
 body {
   font-family: "Open Sans", sans-serif;
   background-color: #f9fafc;
-  padding: 10px;
-  margin: 5px;
+  padding: 20px;
+  margin: 10px;
 }
 
 header {
   color: #000000;
-  padding-bottom: 4px;
-  font-size: 0.75em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 10px;
 }
 
 nav {
   color: #69696a;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0;
+  font-size: 20px;
 }
 
 a {
@@ -20,7 +31,6 @@ a {
   color: #69696a;
   display: block;
   padding-bottom: 4px;
-  font-size: 0.75em;
 }
 
 h2 {
